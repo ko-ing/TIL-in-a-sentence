@@ -7,4 +7,5 @@ ex) 20XX-XX-XX : [sipping-go](https://github.com/ko-ing/sipping-go), [coroutine-
 2022-01-30 : [딥러닝-Softmax Regression](https://www.youtube.com/watch?v=NKFT3MnghJc&list=PL_iJu012NOxdDZEygsVG4jS8srnSdIgdn&index=9), [딥러닝-Regression & Classification](https://www.youtube.com/watch?v=gNRIUpjidJI&list=PL_iJu012NOxdDZEygsVG4jS8srnSdIgdn&index=10), [딥러닝-Entropy, Cross Entropy, KL-divergence](https://www.youtube.com/watch?v=z1k8HVU4Mxc&list=PL_iJu012NOxdDZEygsVG4jS8srnSdIgdn&index=11)  
 2022-02-06 : [Sipping-Go RCA 없이 react init](https://github.com/ko-ing/sipping-go)  
 2022-03-12 : [objects group study - 1장](https://github.com/ko-ing/objects-group-study)  
-2022-03-20 : [objects group study - 2장](https://github.com/ko-ing/objects-group-study)
+2022-03-20 : [objects group study - 2장](https://github.com/ko-ing/objects-group-study)  
+2022-03-27 : [objects group study - 3장](https://github.com/ko-ing/objects-group-study)
