@@ -8,4 +8,5 @@ ex) 20XX-XX-XX : [sipping-go](https://github.com/ko-ing/sipping-go), [coroutine-
 2022-02-06 : [Sipping-Go RCA 없이 react init](https://github.com/ko-ing/sipping-go)  
 2022-03-12 : [objects group study - 1장](https://github.com/ko-ing/objects-group-study)  
 2022-03-20 : [objects group study - 2장](https://github.com/ko-ing/objects-group-study)  
-2022-03-27 : [objects group study - 3장](https://github.com/ko-ing/objects-group-study)
+2022-03-27 : [objects group study - 3장](https://github.com/ko-ing/objects-group-study)  
+2022-04-03 : [objects group study - 3,4장](https://github.com/ko-ing/objects-group-study)
